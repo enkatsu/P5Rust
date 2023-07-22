@@ -9,4 +9,3 @@ path = "src/lib.rs"
 crate-type = ["dylib"]
 
 [dependencies]
-fastblur = { git = "https://github.com/fschutt/fastblur" }
